@@ -7,5 +7,5 @@ export default function() {
         {title: '2 book'},
         {title: '3 book'},
         {title: '4 book'},
-    ]
+    ];
 }
