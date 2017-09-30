@@ -3,9 +3,9 @@
 
 export default function() {
     return [
-        {title: '1 book'},
-        {title: '2 book'},
-        {title: '3 book'},
-        {title: '4 book'},
+        {title: '1 book', pages: 100},
+        {title: '2 book', pages: 200},
+        {title: '3 book', pages: 300},
+        {title: '4 book', pages: 400},
     ];
 }
